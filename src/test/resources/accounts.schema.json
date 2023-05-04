@@ -30,7 +30,7 @@
       },
       "currency": {
         "type": "string",
-        "pattern": "^[a-z]{3}"
+        "pattern": "^[A-Z]{3}"
       }
     }
   }
