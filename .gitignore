@@ -31,6 +31,7 @@ out/
 .vscode/
 
 ### Package Files ###
+!artifacts/app-mbank.jar
 *.jar
 *.war
 *.nar
