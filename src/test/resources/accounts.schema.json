@@ -30,7 +30,7 @@
       },
       "currency": {
         "type": "string",
-        "pattern": "^[A-Z]{3}"
+        "pattern": "^RUR"
       }
     }
   }
