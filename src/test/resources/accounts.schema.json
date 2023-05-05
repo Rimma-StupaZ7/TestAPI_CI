@@ -30,7 +30,7 @@
       },
       "currency": {
         "type": "string",
-        "pattern": "RUR|USB"
+        "pattern": "RUB|USB"
       }
     }
   }
