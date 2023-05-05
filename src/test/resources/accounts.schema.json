@@ -30,7 +30,10 @@
       },
       "currency": {
         "type": "string",
-        "pattern": "^[A-Z]{3}"
+        "patternProperties": {
+          "^RUB": { "type": "string" },
+          "^USD": { "type": "string" }
+        }
       }
     }
   }
